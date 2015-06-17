@@ -1,0 +1,3 @@
+[submodule "BadSymptoms"]
+	path = BadSymptoms
+	url = git://github.com/cahya666/BadSymptoms.git
